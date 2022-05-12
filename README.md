@@ -11,13 +11,13 @@
 
 **languages and tools:**  
 
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-python.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-java.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-php.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-git.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-javascript.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-vue.png"></code>
-<code><img height="20" src="https://github.com/ideshun/ideshun/blob/main/images/logo-react.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Java-yellow?style=flat&logo=Java"></code>
+<code><img height="20" src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=PHP"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Git-red?style=flat&logo=Git"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=Javascript"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Vue-blue?style=flat&logo=vue"></code>
+<code><img height="20" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React"></code>
 
 
 
