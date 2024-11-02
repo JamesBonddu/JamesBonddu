@@ -12,6 +12,7 @@
 **languages and tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=Golang"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Java-yellow?style=flat&logo=Java"></code>
 <code><img height="20" src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=PHP"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Git-red?style=flat&logo=Git"></code>
