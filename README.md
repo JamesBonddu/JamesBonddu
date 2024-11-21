@@ -2,7 +2,7 @@
      
 <strong>Hi, I am JSDu!👋 </strong>
 
-<strong> A full stack developer from China. </strong>
+<strong> A full stack developer </strong>
 
 </pre> 
 
@@ -25,4 +25,4 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:306211150@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-306211150@qq.com-blue?style=flat-square&logo=gmail"></a>
-<img alt="Visitors Stats" src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red"/> 
+
